@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="https://streamlit.io/"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-1.45.0-ff4b4b?logo=streamlit&logoColor=white"></a>
-  <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-1.26.4-013243?logo=numpy&logoColor=white"></a>
+  <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-2.2.5-013243?logo=numpy&logoColor=white"></a>
   <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2.2.3-150458?logo=pandas&logoColor=white"></a>
-  <a href="https://scikit-learn.org/"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit learn-1.4.2-F7931E?logo=scikit-learn&logoColor=white"></a>
-  <a href="https://xgboost.readthedocs.io/"><img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-2.0.3-1A733A?logo=xgboost&logoColor=white"></a>
-  <a href="https://joblib.readthedocs.io/"><img alt="Joblib" src="https://img.shields.io/badge/Joblib-1.3.2-3776AB?logo=python&logoColor=white"></a>
+  <a href="https://scikit-learn.org/"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit learn-1.6.1-F7931E?logo=scikit-learn&logoColor=white"></a>
+  <a href="https://xgboost.readthedocs.io/"><img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-3.0.2-1A733A?logo=xgboost&logoColor=white"></a>
+  <a href="https://joblib.readthedocs.io/"><img alt="Joblib" src="https://img.shields.io/badge/Joblib-1.5.0-3776AB?logo=python&logoColor=white"></a>
 </p>
 
 ---
